@@ -1,0 +1,16 @@
+From 95f3ebd3fa85ac6054983251b3636b3210658ff0 Mon Sep 17 00:00:00 2001
+From: Federico Casabianca <federico.casabianca@gmail.com>
+Date: Tue, 11 Feb 2014 17:24:03 +0100
+Subject: [PATCH 1/2] adds new file
+
+---
+ pickfile.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 pickfile.txt
+
+diff --git a/pickfile.txt b/pickfile.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+1.8.3.4 (Apple Git-47)
+
